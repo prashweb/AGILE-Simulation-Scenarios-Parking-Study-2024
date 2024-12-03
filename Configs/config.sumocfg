@@ -1,0 +1,22 @@
+<configuration>
+	
+	<input>
+        <net-file value="network.net.xml"/>
+		<route-files value="routes.rou.xml"/>
+		<additional-files value="edgedata.xml, parking.xml, Rerouter.xml"/>
+    </input>
+	
+	<time>
+        <begin value="0"/>
+    </time>
+	
+	<processing>
+		<parking.maneuver value="true" />
+	</processing>
+	
+	<output>
+		<tripinfo-output value="tripinfo_data.xml"/>
+	</output>
+
+	
+</configuration>

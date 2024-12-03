@@ -1,0 +1,264 @@
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+
+
+    <vType id="vType_0" length="5.00" minGap="0.50" maxSpeed="70.00" maneuverAngleTimes="0 20 10, 180 20 10">
+        <param key="parking.memory" value="100" />
+    </vType>
+    
+ <flow id="ft_32_143" begin="0.00" from="32" to="143" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_32_159" begin="0.00" from="32" to="159" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_32_164" begin="0.00" from="32" to="164" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_32_174" begin="0.00" from="32" to="174" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_32_122" begin="0.00" from="32" to="122" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_32_133" begin="0.00" from="32" to="133" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_32_175" begin="0.00" from="32" to="175" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_32_170" begin="0.00" from="32" to="170" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_48_143" begin="0.00" from="48" to="143" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_48_159" begin="0.00" from="48" to="159" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_48_164" begin="0.00" from="48" to="164" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_48_174" begin="0.00" from="48" to="174" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_48_122" begin="0.00" from="48" to="122" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_48_133" begin="0.00" from="48" to="133" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_48_175" begin="0.00" from="48" to="175" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_48_170" begin="0.00" from="48" to="170" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_53_143" begin="0.00" from="53" to="143" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_53_159" begin="0.00" from="53" to="159" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_53_164" begin="0.00" from="53" to="164" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_53_174" begin="0.00" from="53" to="174" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_53_122" begin="0.00" from="53" to="122" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_53_133" begin="0.00" from="53" to="133" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_53_175" begin="0.00" from="53" to="175" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_53_170" begin="0.00" from="53" to="170" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_63_143" begin="0.00" from="63" to="143" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_63_159" begin="0.00" from="63" to="159" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_63_164" begin="0.00" from="63" to="164" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_63_174" begin="0.00" from="63" to="174" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_63_122" begin="0.00" from="63" to="122" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_63_133" begin="0.00" from="63" to="133" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_63_175" begin="0.00" from="63" to="175" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_63_170" begin="0.00" from="63" to="170" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_11_143" begin="0.00" from="11" to="143" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_11_159" begin="0.00" from="11" to="159" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_11_164" begin="0.00" from="11" to="164" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_11_174" begin="0.00" from="11" to="174" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_11_122" begin="0.00" from="11" to="122" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_11_133" begin="0.00" from="11" to="133" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_11_175" begin="0.00" from="11" to="175" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_11_170" begin="0.00" from="11" to="170" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_22_143" begin="0.00" from="22" to="143" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_22_159" begin="0.00" from="22" to="159" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_22_164" begin="0.00" from="22" to="164" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_22_174" begin="0.00" from="22" to="174" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_22_122" begin="0.00" from="22" to="122" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_22_133" begin="0.00" from="22" to="133" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_22_175" begin="0.00" from="22" to="175" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_22_170" begin="0.00" from="22" to="170" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_64_143" begin="0.00" from="64" to="143" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_64_159" begin="0.00" from="64" to="159" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_64_164" begin="0.00" from="64" to="164" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_64_174" begin="0.00" from="64" to="174" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_64_122" begin="0.00" from="64" to="122" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_64_133" begin="0.00" from="64" to="133" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_64_175" begin="0.00" from="64" to="175" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_64_170" begin="0.00" from="64" to="170" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_59_143" begin="0.00" from="59" to="143" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_59_159" begin="0.00" from="59" to="159" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_59_164" begin="0.00" from="59" to="164" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_59_174" begin="0.00" from="59" to="174" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_59_122" begin="0.00" from="59" to="122" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_59_133" begin="0.00" from="59" to="133" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_59_175" begin="0.00" from="59" to="175" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="ft_59_170" begin="0.00" from="59" to="170" end="14400.00" vehsPerHour="30.00" color="white" type="vType_0" />
+ <flow id="fl_32_143" begin="0.00" from="32" to="143" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_32_159" begin="28.12" from="32" to="159" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_32_164" begin="56.25" from="32" to="164" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_32_174" begin="84.38" from="32" to="174" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_32_122" begin="112.50" from="32" to="122" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_32_133" begin="140.62" from="32" to="133" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_32_175" begin="168.75" from="32" to="175" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_32_170" begin="196.88" from="32" to="170" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_48_143" begin="225.00" from="48" to="143" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_48_159" begin="253.12" from="48" to="159" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_48_164" begin="281.25" from="48" to="164" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_48_174" begin="309.38" from="48" to="174" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_48_122" begin="337.50" from="48" to="122" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_48_133" begin="365.62" from="48" to="133" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_48_175" begin="393.75" from="48" to="175" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_48_170" begin="421.88" from="48" to="170" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_53_143" begin="450.00" from="53" to="143" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_53_159" begin="308.12" from="53" to="159" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_53_164" begin="506.25" from="53" to="164" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_53_174" begin="534.38" from="53" to="174" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_53_122" begin="562.50" from="53" to="122" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_53_133" begin="590.62" from="53" to="133" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_53_175" begin="618.75" from="53" to="175" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_53_170" begin="646.88" from="53" to="170" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_63_143" begin="675.00" from="63" to="143" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_63_159" begin="703.12" from="63" to="159" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_63_164" begin="731.25" from="63" to="164" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_63_174" begin="759.38" from="63" to="174" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_63_122" begin="787.50" from="63" to="122" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_63_133" begin="815.62" from="63" to="133" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_63_175" begin="843.75" from="63" to="175" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_63_170" begin="871.88" from="63" to="170" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_11_143" begin="900.00" from="11" to="143" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_11_159" begin="928.12" from="11" to="159" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_11_164" begin="956.25" from="11" to="164" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_11_174" begin="984.38" from="11" to="174" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_11_122" begin="1012.50" from="11" to="122" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_11_133" begin="1040.62" from="11" to="133" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_11_175" begin="1068.75" from="11" to="175" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_11_170" begin="1096.88" from="11" to="170" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_22_143" begin="1125.00" from="22" to="143" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_22_159" begin="1153.12" from="22" to="159" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_22_164" begin="1181.25" from="22" to="164" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_22_174" begin="1209.38" from="22" to="174" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_22_122" begin="1237.50" from="22" to="122" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_22_133" begin="1265.62" from="22" to="133" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_22_175" begin="1293.75" from="22" to="175" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_22_170" begin="1321.88" from="22" to="170" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_64_143" begin="1350.00" from="64" to="143" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_64_159" begin="1378.12" from="64" to="159" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_64_164" begin="1406.25" from="64" to="164" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_64_174" begin="1434.38" from="64" to="174" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_64_122" begin="1462.50" from="64" to="122" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_64_133" begin="1490.62" from="64" to="133" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_64_175" begin="1518.75" from="64" to="175" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_64_170" begin="1546.88" from="64" to="170" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_59_143" begin="1575.00" from="59" to="143" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_59_159" begin="1603.12" from="59" to="159" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_59_164" begin="1631.25" from="59" to="164" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_59_174" begin="1659.38" from="59" to="174" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_59_122" begin="1687.50" from="59" to="122" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_59_133" begin="1715.62" from="59" to="133" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_59_175" begin="1743.75" from="59" to="175" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+ <flow id="fl_59_170" begin="1771.88" from="59" to="170" end="14400.00" vehsPerHour="1" type="vType_0">
+                            <stop parkingArea="pa_227_0" duration="300" parking="1" />
+                        </flow>
+</routes>
